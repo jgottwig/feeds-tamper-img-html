@@ -2,4 +2,5 @@ name = Tamper Image
 description = Very simple tamper to grab the first image from a chunk of HTML
 package = Feeds
 dependencies[] = feeds
+dependencies[] = feeds_tamper
 core = 7.x
